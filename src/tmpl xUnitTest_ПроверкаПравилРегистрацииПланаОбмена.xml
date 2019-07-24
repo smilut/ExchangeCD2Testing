@@ -6,21 +6,21 @@
 				<xr:ClassId>c3831ec8-d8d5-4f93-8a22-f9bfae07327f</xr:ClassId>
 				<xr:ObjectId>fe392796-c14b-4a7b-b97f-a8064e264d17</xr:ObjectId>
 			</xr:ContainedObject>
-			<xr:GeneratedType name="ExternalDataProcessorObject.xUnitTest_ПроверкаПравилРегистрацииПланаОбмена" category="Object">
+			<xr:GeneratedType name="ExternalDataProcessorObject.template_xUnitTest_ПроверкаПравилРегистрацииПланаОбмена" category="Object">
 				<xr:TypeId>fc0f4493-6fc7-4047-a9a4-eb68b03d7526</xr:TypeId>
 				<xr:ValueId>07f56f82-ccf8-49c6-b6dd-c1233c642d93</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>xUnitTest_ПроверкаПравилРегистрацииПланаОбмена</Name>
+			<Name>template_xUnitTest_ПроверкаПравилРегистрацииПланаОбмена</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Проверка правил регистрации плана обмена</v8:content>
+					<v8:content>Шаблон теста Проверка правил регистрации плана обмена</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
-			<DefaultForm>ExternalDataProcessor.xUnitTest_ПроверкаПравилРегистрацииПланаОбмена.Form.Форма</DefaultForm>
+			<DefaultForm>ExternalDataProcessor.template_xUnitTest_ПроверкаПравилРегистрацииПланаОбмена.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
